@@ -20,13 +20,14 @@ A functional To-Do List application built with React and TypeScript.
   - Importance
   - Alphabetically
 - Data persists in `localStorage`
----
+
 ## Technologies used 
+
 -React
 -TypeScript
 -Tailwind CSS
 -localStorage
----
+
 ## Testing Guidance
 
 -Try adding short/blank tasks → It should show validation error
@@ -35,7 +36,7 @@ A functional To-Do List application built with React and TypeScript.
 -Refresh page → The tasks should persist (via localStorage)
 -Try different filters and sorting options
 
----
+
 
 ## Installation
 
@@ -44,5 +45,6 @@ git clone https://github.com/WR-Shashank/celebelpr2.git
 cd project
 npm install
 npm run dev
+```
 
 
