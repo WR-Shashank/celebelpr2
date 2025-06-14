@@ -2,7 +2,7 @@
 
 A functional To-Do List application built with React and TypeScript.
 
-👉 **[Live Demo](celebelpr2.vercel.app)** celebelpr2.vercel.app
+👉 **[Live Demo](https://celebelpr2.vercel.app/)** 
 
 ---
 
