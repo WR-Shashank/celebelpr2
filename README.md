@@ -14,7 +14,7 @@ A functional To-Do List application built with React and TypeScript.
 - Delete tasks
 - Validate task input (min. 3 characters, max. 120)
 - Filter tasks (All, Completed, Incomplete)
-- Click the 🗑️ icon to remove a task
+- Click the delete icon to remove a task
 - Sort tasks by:
   - Date (Newest/Oldest)
   - Importance
